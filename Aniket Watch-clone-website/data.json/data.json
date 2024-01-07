@@ -1,0 +1,152 @@
+[
+    {
+        "_id":1,
+       " title":"TIMI Watch pro",
+        "image":"https://m.media-amazon.com/images/I/712+lS1mk-L.jpg",
+       " price": 9000
+    },
+    {
+        "_id":2,
+       " title":"TIMI Watch pro Max",
+       " image":"https://m.media-amazon.com/images/I/611Gy0SZvYL._AC_UF1000,1000_QL80_.jpg",
+       " price": 11000
+    },
+    {
+        "_id":3,
+       " title":"TIMI X-Watch",
+       " image":"https://www.leafstudios.in/cdn/shop/products/Main_a66bce90-71a9-4c4f-9469-078ec70933e0_800x.jpg?v=1673960414",
+       " price": 6000
+    },
+    {
+        "_id":4,
+       " title":"TIMI Sime-Watch 5",
+       " image":"https://rukminim2.flixcart.com/image/850/1000/k2qh5zk0/smartwatch/h/y/r/smartwatch-gt08-black-01-samipna-original-imafmf2yyxw3wh8p.jpeg?q=90",
+       " price": 3000
+    },
+    {
+        "_id":5,
+       " title":"TIMI Watch Gen-X",
+        "image":"https://staticimg.titan.co.in/Titan/Catalog/90188AP03_1.jpg?impolicy=pqmed&imwidth=640",
+       " price": 19000
+    },
+    {
+        "_id":6,
+       " title":"TIMI Watch Gen-X pro",
+        "image":"https://5.imimg.com/data5/SELLER/Default/2023/2/OH/FH/UX/80249956/smart-watch-ultra-8.jpeg",
+       " price": 22000
+    },
+    {
+        "_id":7,
+       " title":"TIMI Watch pro kidds",
+        "image":"https://www.ubuy.co.in/productimg/?image=aHR0cHM6Ly9pbWFnZXMtY2RuLnVidXkuY28uaW4vNjMzZDhiYTFlM2QzODUyZDBjNTUzNzY2LXNtYXJ0LXdhdGNoLWZvci1raWRzLXNtYXJ0LXdhdGNoLWJveXMuanBn.jpg",
+       " price": 3999
+    },
+  
+    {
+        "_id":8,
+       " title":"TIMI Watch Unisex",
+       " image":"https://assets.ajio.com/medias/sys_master/root/20230516/JVIk/6463b536d55b7d0c63ba25da/-473Wx593H-4938378250-multi-MODEL.jpg",
+       " price": 13000
+    },
+    {
+        "_id":9,
+       " title":"TIMI Watch pro 2",
+       " image":"https://5.imimg.com/data5/SELLER/Default/2023/7/329565057/SY/AN/RA/187789149/smart-watch-golden-golden-smartwatch-500x500.jpg",
+       " price": 8000
+    },
+    {
+        "_id":10,
+       " title":"TIMI Watch Gen-x ProMax",
+       " image":"https://www.beatxp.com/blog/wp-content/uploads/2023/06/smartwatch-features-1200x900.jpg",
+       " price": 29000
+    },
+    {
+        "id":12,
+        "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSzjext0UwG8cJY…",
+        "price":13000,
+       " title":"TIMI Time-Line"
+    },
+    {
+        
+"id":13,
+"image":"data:image/webp;base64,UklGRuwUAABXRUJQVlA4IOAUAABwTgCdASqWANoAPlEijUU…",
+"price":36999,
+"title":"TIMI 9 Prime"
+    },
+    {
+        "id":14,
+"image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTqIJBoTuMViz0I…",
+"price":23999,
+"title":"TIMI 6 prime"
+    },
+    {
+       "id":15,
+"image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ4rVtpbLuM9xdp…",
+"price":29999,
+"title":"TIMI 4 prime"
+    },
+    {
+        "id":16,
+"image":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRkI0gWSov1csWk…",
+"price":8000,
+"title":"TIMI T-1"
+    },
+    {
+        "id":17,
+"image":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQBUfg0VPI5UloT…",
+"price":22699,
+"title":"TIMI 3 prime"
+    },
+    {
+        "id":18,
+"image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcROx2OH6flOyRP8…" ,
+"price":19000,
+"title":"TIMI 2 prime"
+    },
+    {
+        "id":19,
+"image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQLgrXohVRMP86E…",
+"price":4500,
+"title":"TIMI Kiddz"
+    },
+    {
+        
+"id":20,
+"image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRtP7uuu2pT2b1X…",
+"price":31999,
+"title":"TIMI 8 prime"
+    },
+    {
+       "id":21,
+"image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTq9-GiBvO-arMI…",
+"price":19999,
+"title":"TIMI 7 Prime"
+    },
+    {
+        
+"id":22,
+"image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQg-U2cYiFVmAW1…",
+"price":6500,
+"title":"TIMI T-2"
+    },
+    {
+        
+"id":23,
+"image":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQN9TEiBLDd_Ak8…",
+"price":19999,
+"title":"TIMI 5 prime"
+    },
+    {
+        "id":24,
+"image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTS0upv_jQMQ2Xe…",
+"price":7999,
+"title":"TIMI T-3"
+    },
+    {
+        "id":25,
+"image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQL8hUrO13dEVc2…",
+"price":89490,
+"title":"TIMI G7"
+    }
+  ]
+  
