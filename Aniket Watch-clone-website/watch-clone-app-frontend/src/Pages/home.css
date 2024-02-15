@@ -1,0 +1,94 @@
+body{
+    background-color:whitesmoke;
+}
+.form{
+    display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: center;
+    width: 100%;
+    display: inline-block;
+
+    
+}
+
+
+.card{
+    padding: 10px;
+    border-radius: 0.5rem;
+    transition: 0.3rem;
+    margin: 15PX;
+    box-sizing: 1px 1px 5px ;
+    height: 45vh;
+    width: 250px;
+    margin-inline: 10px;
+    text-align: center;
+    align-items: center;
+    border: 1px solid black;
+   
+}
+.card_img{
+    width: 64%;
+}
+.card h2{
+    break-inside: avoid-column;
+    font-size: 25px;
+    color: black;
+}
+.card_price{
+    font-weight: bold;
+    font: bold;
+    font-size: 25px;
+}
+.btn_add{
+    font-weight: 800;
+    font-size: 25px;
+}
+.btn_add:hover{
+    background-color: coral;
+}
+
+.textisa{
+    text-align: center;
+    font-size: 55px;
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+   
+}
+.product{
+    text-align: center;
+    padding: 10px;
+    box-sizing:initial;
+    font-size: 60px; 
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin-top: 5px;
+    
+  
+}
+.click{
+    font-size: 60px; 
+    width:150px;
+    height:50px;
+    font-size: larger;
+}
+.h1{
+    color:rgba(0, 0, 0, 0.541);
+}
+
+.click{
+    padding: 5px;
+   
+}
+.search_box{
+  
+ margin-left: 2%;
+  width:200px;
+  font-size: 15px;
+
+ 
+}
+.search_box:hover{
+    background-color:lightcyan ;
+    border-color: black;
+}

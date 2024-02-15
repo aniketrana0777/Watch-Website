@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+}
+.success{
+    color: black;
+   
+    font-family:cursive;
+    
+   
+}
+.success h1{
+    position: absolute;
+    top:60%;
+    font-size: 45px;
+    margin-left: 42%;
+    color: green;
+}
